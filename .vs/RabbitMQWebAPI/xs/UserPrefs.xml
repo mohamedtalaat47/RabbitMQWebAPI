@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{75FED358-5A3B-49DA-B736-6C8447E92819}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sheg/projects/RabbitMQWebAPI/Controllers/MessageController.cs" relfile="Controllers/MessageController.cs" line="24" column="1" />
+      <Breakpoint file="/Users/sheg/projects/RabbitMQWebAPI/Controllers/MessageController.cs" relfile="Controllers/MessageController.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RabbitMQWebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/RabbitMQServices/RabbitMQService.cs">
+    <Files>
+      <File FileName="Controllers/MessageController.cs" Line="27" Column="1" />
+      <File FileName="Program.cs" Line="10" Column="31" />
+      <File FileName="Services/RabbitMQServices/RabbitMQService.cs" Line="48" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RabbitMQWebAPI" expanded="True">
+            <Node name="RabbitMQWebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="RabbitMQServices" expanded="True">
+                  <Node name="RabbitMQService.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
